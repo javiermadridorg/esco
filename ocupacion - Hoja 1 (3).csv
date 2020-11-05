@@ -1,0 +1,13 @@
+conceptType,conceptUri,iscoGroup,preferredLabel
+Occupation,http://data.europa.eu/esco/occupation/3b2229b4-807c-482a-89ca-2d0a542be196,2635,"""trabajador social para el ámbito gerontológico/trabajadora social para el ámbito gerontológico"""
+Occupation,http://data.europa.eu/esco/occupation/50743f62-3d5b-4ef6-b706-00d2b1adfcc3,3412,"""trabajador social en residencia de mayores con problemas físicos o psíquicos/trabajadora social en residencia de mayores con problemas físicos o psíquicos"""
+Occupation,http://data.europa.eu/esco/occupation/c6239b9e-5973-4b0a-a2ed-4c4b41331e04,3412,"""supervisor de cuidados de adultos a domicilio/supervisora de cuidados de adultos a domicilio"""
+Occupation,http://data.europa.eu/esco/occupation/eea2b5c6-48d1-4612-957e-585783b3c7bb,1343,"""director de residencia de personas mayores/directora de residencia de personas mayores"""
+Occupation,http://data.europa.eu/esco/occupation/5ee264b2-9bc5-40f6-9db3-c87143af6b2d,5329,"""enfermero/enfermera"""
+Occupation,http://data.europa.eu/esco/occupation/71f09c8b-a172-408c-b9e7-32e580e39ff6,2211,"""médico generalista/médica generalista"""
+Occupation,http://data.europa.eu/esco/occupation/615920c5-4f63-4eb3-8b60-afaaed3ab1ff,2141,"""técnico de mantenimiento y reparación/técnica de mantenimiento y reparación"""
+Occupation,http://data.europa.eu/esco/occupation/f7b04542-d8c7-42db-8475-e63b507cce82,4226,"""recepcionista"""
+Occupation,http://data.europa.eu/esco/occupation/099c6bb0-22d3-4c5d-8bf5-70910af381ef,5141,"""peluquero/peluquera"""
+Occupation,http://data.europa.eu/esco/occupation/6c999fc7-c6b7-4ef3-a4b9-af124a1783a2,4110,"""empleado de oficina/empleada de oficina"""
+Occupation,http://data.europa.eu/esco/occupation/ed3cf43d-c2c1-4c46-82fc-1375e27e0290,7126,"""fontanero/fontanera"""
+Occupation,http://data.europa.eu/esco/occupation/4910419f-b4af-4f59-b544-9dbebc8a74f0,7411,"""electricista"""
